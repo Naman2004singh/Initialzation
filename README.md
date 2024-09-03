@@ -1,4 +1,5 @@
 # Initialzation
 The first repository on github
 <br>
-Author- NAMAN SINGH
+Author- NAMAN SINGH (AKG)
+
